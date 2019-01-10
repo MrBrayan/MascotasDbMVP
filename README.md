@@ -27,7 +27,7 @@ En este proyecto se implementa el modelo vista presentador haciendo uso de SQLit
 
 * [X] El proyecto esta guardando y mostrando correctamente las mascotas.
 
-![alt text](img/MascotasDbMVP1.png "Pantalla Principal")
+![alt text](img/MascotasDbMVP2.png "Pantalla Principal")
 
 
 * [X] El número de Likes se almacena en la base de datos.
